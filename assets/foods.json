@@ -1,0 +1,2262 @@
+{
+    "report": {
+        "sr": "1",
+        "groups": "All groups",
+        "subset": "Abridged List",
+        "end": 150,
+        "start": 0,
+        "total": 912,
+        "foods": [
+            {
+                "ndbno": "14007",
+                "name": "Alcoholic beverage, beer, light, BUD LIGHT",
+                "weight": 29.5,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "9",
+                        "gm": 29.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14009",
+                "name": "Alcoholic beverage, daiquiri, canned",
+                "weight": 30.5,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "38",
+                        "gm": 125.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14534",
+                "name": "Alcoholic beverage, liqueur, coffee, 63 proof",
+                "weight": 34.8,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "107",
+                        "gm": 308.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14015",
+                "name": "Alcoholic beverage, pina colada, canned",
+                "weight": 32.6,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "77",
+                        "gm": 237.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14019",
+                "name": "Alcoholic beverage, tequila sunrise, canned",
+                "weight": 31.1,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "34",
+                        "gm": 110.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14027",
+                "name": "Alcoholic beverage, whiskey sour, canned",
+                "weight": 30.8,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "37",
+                        "gm": 119.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14098",
+                "name": "Alcoholic Beverage, wine, table, red, Cabernet Franc",
+                "weight": 29.4,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "24",
+                        "gm": 83.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14097",
+                "name": "Alcoholic Beverage, wine, table, red, Cabernet Sauvignon",
+                "weight": 29.4,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "24",
+                        "gm": 83.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14105",
+                "name": "Alcoholic Beverage, wine, table, red, Claret",
+                "weight": 29.4,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "24",
+                        "gm": 83.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14107",
+                "name": "Alcoholic Beverage, wine, table, red, Lemberger",
+                "weight": 29.4,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "24",
+                        "gm": 80.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14103",
+                "name": "Alcoholic Beverage, wine, table, red, Petite Sirah",
+                "weight": 29.5,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "25",
+                        "gm": 85.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14106",
+                "name": "Alcoholic beverage, wine, table, white",
+                "weight": 29.4,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "24",
+                        "gm": 82.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14160",
+                "name": "Alcoholic beverage, wine, table, white, Chardonnay",
+                "weight": 29.3,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "25",
+                        "gm": 84.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14116",
+                "name": "Alcoholic beverage, wine, table, white, Chenin Blanc",
+                "weight": 29.5,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "24",
+                        "gm": 80.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14140",
+                "name": "Alcoholic beverage, wine, table, white, Muscat",
+                "weight": 30.0,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "25",
+                        "gm": 82.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14138",
+                "name": "Alcoholic beverage, wine, table, white, Pinot Blanc",
+                "weight": 29.3,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "24",
+                        "gm": 81.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14132",
+                "name": "Alcoholic beverage, wine, table, white, Riesling",
+                "weight": 29.6,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "24",
+                        "gm": 80.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14134",
+                "name": "Alcoholic beverage, wine, table, white, Sauvignon Blanc",
+                "weight": 29.3,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "24",
+                        "gm": 81.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14126",
+                "name": "Alcoholic beverage, wine, table, white, Semillon",
+                "weight": 29.5,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "24",
+                        "gm": 82.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "11004",
+                "name": "Amaranth leaves, cooked, boiled, drained, without salt",
+                "weight": 132.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "28",
+                        "gm": 21.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "09014",
+                "name": "Apples, frozen, unsweetened, unheated (Includes foods for USDA's Food Distribution Program)",
+                "weight": 173.0,
+                "measure": "1.0 cup slices",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "83",
+                        "gm": 48.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "09004",
+                "name": "Apples, raw, without skin",
+                "weight": 110.0,
+                "measure": "1.0 cup slices",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "53",
+                        "gm": 48.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "09020",
+                "name": "Applesauce, canned, sweetened, without salt",
+                "weight": 246.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "167",
+                        "gm": 68.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "09027",
+                "name": "Apricots, canned, heavy syrup pack, with skin, solids and liquids",
+                "weight": 258.0,
+                "measure": "1.0 cup, halves",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "214",
+                        "gm": 83.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "09357",
+                "name": "Apricots, canned, heavy syrup, drained",
+                "weight": 219.0,
+                "measure": "1.0 cup, halves",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "182",
+                        "gm": 83.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "09030",
+                "name": "Apricots, dehydrated (low-moisture), sulfured, uncooked",
+                "weight": 119.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "381",
+                        "gm": 320.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "09033",
+                "name": "Apricots, dried, sulfured, stewed, without added sugar",
+                "weight": 250.0,
+                "measure": "1.0 cup, halves",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "212",
+                        "gm": 85.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18527",
+                "name": "Archway Home Style Cookies, Date Filled Oatmeal",
+                "weight": 25.0,
+                "measure": "1.0 serving",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "100",
+                        "gm": 400.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18532",
+                "name": "Archway Home Style Cookies, Iced Molasses",
+                "weight": 28.0,
+                "measure": "1.0 serving",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "118",
+                        "gm": 420.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18533",
+                "name": "Archway Home Style Cookies, Iced Oatmeal",
+                "weight": 28.0,
+                "measure": "1.0 serving",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "122",
+                        "gm": 435.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18535",
+                "name": "Archway Home Style Cookies, Molasses",
+                "weight": 26.0,
+                "measure": "1.0 serving",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "105",
+                        "gm": 403.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18544",
+                "name": "Archway Home Style Cookies, Raspberry Filled",
+                "weight": 25.0,
+                "measure": "1.0 serving",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "100",
+                        "gm": 400.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "11006",
+                "name": "Arrowhead, cooked, boiled, drained, without salt",
+                "weight": 12.0,
+                "measure": "1.0 medium",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "9",
+                        "gm": 78.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18566",
+                "name": "Artificial Blueberry Muffin Mix, dry",
+                "weight": 31.0,
+                "measure": "1.0 muffin",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "126",
+                        "gm": 407.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "11959",
+                "name": "Arugula, raw",
+                "weight": 2.0,
+                "measure": "1.0 leaf",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "0",
+                        "gm": 25.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "11015",
+                "name": "Asparagus, canned, drained solids",
+                "weight": 242.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "46",
+                        "gm": 19.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "11013",
+                "name": "Asparagus, canned, regular pack, solids and liquids",
+                "weight": 122.0,
+                "measure": "0.5 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "18",
+                        "gm": 15.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "11012",
+                "name": "Asparagus, cooked, boiled, drained",
+                "weight": 90.0,
+                "measure": "0.5 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "20",
+                        "gm": 22.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "11019",
+                "name": "Asparagus, frozen, cooked, boiled, drained, without salt",
+                "weight": 180.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "32",
+                        "gm": 18.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "07921",
+                "name": "Bacon and beef sticks",
+                "weight": 28.0,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "145",
+                        "gm": 517.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18007",
+                "name": "Bagels, oat bran",
+                "weight": 26.0,
+                "measure": "1.0 mini bagel (2-1/2\" dia)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "66",
+                        "gm": 255.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18001",
+                "name": "Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame)",
+                "weight": 99.0,
+                "measure": "1.0 bagel",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "261",
+                        "gm": 264.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18002",
+                "name": "Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame), toasted",
+                "weight": 24.0,
+                "measure": "1.0 mini bagel (2-1/2\" dia)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "69",
+                        "gm": 287.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "19146",
+                "name": "Baking chocolate, MARS SNACKFOOD US, M&amp;M's Milk Chocolate Mini Baking Bits",
+                "weight": 14.0,
+                "measure": "1.0 serving 0.5 oz, about 1 tbsp",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "70",
+                        "gm": 502.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "19139",
+                "name": "Baking chocolate, MARS SNACKFOOD US, M&amp;M's Semisweet Chocolate Mini Baking Bits",
+                "weight": 14.0,
+                "measure": "1.0 serving 0.5 oz, about 1 tbsp",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "72",
+                        "gm": 517.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "11024",
+                "name": "Balsam-pear (bitter gourd), pods, raw",
+                "weight": 93.0,
+                "measure": "1.0 cup (1/2\" pieces)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "16",
+                        "gm": 17.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "11026",
+                "name": "Bamboo shoots, raw",
+                "weight": 151.0,
+                "measure": "1.0 cup (1/2\" slices)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "41",
+                        "gm": 27.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "07001",
+                "name": "Barbecue loaf, pork, beef",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "49",
+                        "gm": 173.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "20130",
+                "name": "Barley flour or meal",
+                "weight": 148.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "511",
+                        "gm": 345.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "16001",
+                "name": "Beans, adzuki, mature seeds, raw",
+                "weight": 197.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "648",
+                        "gm": 329.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "16009",
+                "name": "Beans, baked, canned, with pork",
+                "weight": 253.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "268",
+                        "gm": 106.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "16018",
+                "name": "Beans, black turtle, mature seeds, canned",
+                "weight": 240.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "218",
+                        "gm": 91.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "16017",
+                "name": "Beans, black turtle, mature seeds, cooked, boiled, without salt",
+                "weight": 185.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "240",
+                        "gm": 130.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "16014",
+                "name": "Beans, black, mature seeds, raw",
+                "weight": 194.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "662",
+                        "gm": 341.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "11029",
+                "name": "Beans, kidney, mature seeds, sprouted, raw",
+                "weight": 184.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "53",
+                        "gm": 29.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "16040",
+                "name": "Beans, pink, mature seeds, raw",
+                "weight": 210.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "720",
+                        "gm": 343.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "11048",
+                "name": "Beans, pinto, immature seeds, frozen, unprepared",
+                "weight": 94.0,
+                "measure": "0.33 package (10 oz)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "160",
+                        "gm": 170.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "11061",
+                "name": "Beans, snap, green, frozen, cooked, boiled, drained without salt",
+                "weight": 135.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "38",
+                        "gm": 28.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "23302",
+                "name": "Beef, Australian, imported, grass-fed, loin, tenderloin steak/roast, boneless, separable lean and fat, raw",
+                "weight": 113.0,
+                "measure": "4.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "171",
+                        "gm": 151.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "23297",
+                "name": "Beef, Australian, imported, grass-fed, seam fat, raw",
+                "weight": 113.0,
+                "measure": "4.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "635",
+                        "gm": 562.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13975",
+                "name": "Beef, brisket, flat half, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw",
+                "weight": 113.0,
+                "measure": "4.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "191",
+                        "gm": 169.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13950",
+                "name": "Beef, brisket, flat half, separable lean and fat, trimmed to 0\" fat, select, cooked, braised",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "174",
+                        "gm": 205.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13786",
+                "name": "Beef, chuck eye roast, boneless, America's Beef Roast, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+                "weight": 113.0,
+                "measure": "4.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "203",
+                        "gm": 180.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13980",
+                "name": "Beef, chuck, short ribs, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, braised",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "212",
+                        "gm": 250.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13967",
+                "name": "Beef, chuck, top blade, separable lean only, trimmed to 0\" fat, select, cooked, broiled",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "156",
+                        "gm": 184.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13970",
+                "name": "Beef, flank, steak, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+                "weight": 113.0,
+                "measure": "4.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "175",
+                        "gm": 155.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "23563",
+                "name": "Beef, ground, 90% lean meat / 10% fat, patty, cooked, broiled",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "184",
+                        "gm": 217.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13985",
+                "name": "Beef, loin, bottom sirloin butt, tri-tip roast, separable lean only, trimmed to 0\" fat, all grades, cooked, roasted",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "155",
+                        "gm": 182.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13913",
+                "name": "Beef, loin, top loin, separable lean and fat, trimmed to 1/8\" fat, select, raw",
+                "weight": 113.0,
+                "measure": "4.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "253",
+                        "gm": 224.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "23260",
+                "name": "Beef, loin, top sirloin petite roast, boneless, separable lean only, trimmed to 0\" fat, select, cooked, roasted",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "140",
+                        "gm": 165.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13855",
+                "name": "Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8\" fat, choice, cooked, roasted",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "305",
+                        "gm": 359.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "23265",
+                "name": "Beef, ribeye  petite roast/filet, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+                "weight": 113.0,
+                "measure": "4.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "141",
+                        "gm": 125.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "23270",
+                "name": "Beef, ribeye cap steak, boneless, separable lean only, trimmed to 0\" fat, choice, raw",
+                "weight": 113.0,
+                "measure": "4.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "211",
+                        "gm": 187.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13959",
+                "name": "Beef, round, top round steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "142",
+                        "gm": 167.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13968",
+                "name": "Beef, round, top round steak, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, grilled",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "144",
+                        "gm": 170.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13899",
+                "name": "Beef, round, top round, separable lean and fat, trimmed to 1/8\" fat, select, cooked, braised",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "191",
+                        "gm": 225.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13896",
+                "name": "Beef, round, top round, steak, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, broiled",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "190",
+                        "gm": 224.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13902",
+                "name": "Beef, round, top round, steak, separable lean and fat, trimmed to 1/8\" fat, prime, cooked, broiled",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "191",
+                        "gm": 225.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13228",
+                "name": "Beef, shank crosscuts, separable lean only, trimmed to 1/4\" fat, choice, cooked, simmered",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "171",
+                        "gm": 201.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13905",
+                "name": "Beef, short loin, porterhouse steak, separable lean and fat, trimmed to 1/8\" fat, choice, raw",
+                "weight": 113.0,
+                "measure": "4.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "246",
+                        "gm": 218.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13467",
+                "name": "Beef, short loin, porterhouse steak, separable lean only, trimmed to 0\" fat, choice, cooked, broiled",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "190",
+                        "gm": 224.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13918",
+                "name": "Beef, tenderloin, steak, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, broiled",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "227",
+                        "gm": 267.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13923",
+                "name": "Beef, tenderloin, steak, separable lean and fat, trimmed to 1/8\" fat, select, raw",
+                "weight": 113.0,
+                "measure": "4.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "281",
+                        "gm": 249.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "23290",
+                "name": "Beef, top loin petite roast/filet, boneless, separable lean and fat, trimmed to 1/8\" fat, all grades, raw",
+                "weight": 113.0,
+                "measure": "4.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "211",
+                        "gm": 187.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13932",
+                "name": "Beef, top sirloin, steak, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, broiled",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "218",
+                        "gm": 257.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "13455",
+                "name": "Beef, top sirloin, steak, separable lean only, trimmed to 0\" fat, choice, cooked, broiled",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "160",
+                        "gm": 188.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "07002",
+                "name": "Beerwurst, beer salami, pork and beef",
+                "weight": 56.0,
+                "measure": "2.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "155",
+                        "gm": 277.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "07931",
+                "name": "Beerwurst, pork and beef",
+                "weight": 56.0,
+                "measure": "1.0 serving 2 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "155",
+                        "gm": 276.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "11086",
+                "name": "Beet greens, raw",
+                "weight": 38.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "8",
+                        "gm": 22.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "11082",
+                "name": "Beets, canned, regular pack, solids and liquids",
+                "weight": 246.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "74",
+                        "gm": 30.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "11080",
+                "name": "Beets, raw",
+                "weight": 136.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "58",
+                        "gm": 43.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14054",
+                "name": "Beverages, almond milk, chocolate, ready-to-drink",
+                "weight": 240.0,
+                "measure": "8.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "120",
+                        "gm": 50.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14016",
+                "name": "Beverages, almond milk, sweetened, vanilla flavor, ready-to-drink",
+                "weight": 240.0,
+                "measure": "8.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "91",
+                        "gm": 38.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14121",
+                "name": "Beverages, carbonated, club soda",
+                "weight": 29.6,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "0",
+                        "gm": 0.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14416",
+                "name": "Beverages, carbonated, low calorie, cola or pepper-type, with aspartame, contains caffeine",
+                "weight": 29.6,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "1",
+                        "gm": 2.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14151",
+                "name": "Beverages, carbonated, low calorie, other than cola or pepper, with aspartame, contains caffeine",
+                "weight": 29.6,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "0",
+                        "gm": 0.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14149",
+                "name": "Beverages, carbonated, reduced sugar, cola, contains caffeine and sweeteners",
+                "weight": 29.6,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "6",
+                        "gm": 20.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14063",
+                "name": "Beverages, chocolate powder, no sugar added",
+                "weight": 11.0,
+                "measure": "2.0 tbsp",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "38",
+                        "gm": 350.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14237",
+                "name": "Beverages, coffee substitute, cereal grain beverage, prepared with water",
+                "weight": 30.1,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "2",
+                        "gm": 6.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14218",
+                "name": "Beverages, coffee, instant, decaffeinated, powder",
+                "weight": 1.8,
+                "measure": "1.0 tsp rounded",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "6",
+                        "gm": 351.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14240",
+                "name": "Beverages, cranberry-apricot juice drink, bottled",
+                "weight": 30.6,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "20",
+                        "gm": 64.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14241",
+                "name": "Beverages, cranberry-grape juice drink, bottled",
+                "weight": 30.6,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "17",
+                        "gm": 56.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14628",
+                "name": "Beverages, Energy drink, AMP, sugar free",
+                "weight": 240.0,
+                "measure": "8.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "5",
+                        "gm": 2.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14630",
+                "name": "Beverages, Energy drink, ROCKSTAR, sugar free",
+                "weight": 240.0,
+                "measure": "8.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "10",
+                        "gm": 4.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14632",
+                "name": "Beverages, Meal supplement drink, canned, peanut flavor",
+                "weight": 158.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "160",
+                        "gm": 101.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14426",
+                "name": "Beverages, Orange drink, breakfast type, with juice and pulp, frozen concentrate",
+                "weight": 36.3,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "56",
+                        "gm": 153.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14462",
+                "name": "Beverages, Propel Zero, fruit-flavored, non-carbonated",
+                "weight": 29.6,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "1",
+                        "gm": 5.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14067",
+                "name": "Beverages, Protein powder soy based",
+                "weight": 45.0,
+                "measure": "1.0 scoop",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "175",
+                        "gm": 388.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14366",
+                "name": "Beverages, tea, instant, unsweetened, powder",
+                "weight": 0.7,
+                "measure": "1.0 serving 1 tsp",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "2",
+                        "gm": 315.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14065",
+                "name": "Beverages, The COCA-COLA company, Hi-C Flashin' Fruit Punch",
+                "weight": 200.0,
+                "measure": "6.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "90",
+                        "gm": 45.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14030",
+                "name": "Beverages, THE COCA-COLA COMPANY, NOS energy drink, Original, grape, loaded cherry, charged citrus, fortified with vitamins B6 and B12",
+                "weight": 480.0,
+                "measure": "16.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "211",
+                        "gm": 44.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14045",
+                "name": "Beverages, UNILEVER, SLIMFAST, meal replacement, regular, ready-to-drink,  3-2-1 Plan",
+                "weight": 295.0,
+                "measure": "1.0 bottle",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "168",
+                        "gm": 57.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14610",
+                "name": "Beverages, V8 SPLASH Juice Drinks, Diet Tropical Blend",
+                "weight": 238.0,
+                "measure": "1.0 serving 8 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "10",
+                        "gm": 4.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14614",
+                "name": "Beverages, V8 SPLASH Juice Drinks, Mango Peach",
+                "weight": 243.0,
+                "measure": "1.0 serving 8 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "80",
+                        "gm": 33.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14086",
+                "name": "Beverages, V8 SPLASH Smoothies, Peach Mango",
+                "weight": 245.0,
+                "measure": "1.0 serving 8 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "91",
+                        "gm": 37.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14087",
+                "name": "Beverages, V8 SPLASH Smoothies, Strawberry Banana",
+                "weight": 245.0,
+                "measure": "1.0 serving 8 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "91",
+                        "gm": 37.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14620",
+                "name": "Beverages, V8 V-FUSION Juices, Peach Mango",
+                "weight": 246.0,
+                "measure": "1.0 serving 8 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "121",
+                        "gm": 49.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14437",
+                "name": "Beverages, water, bottled, non-carbonated, CALISTOGA",
+                "weight": 29.6,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "0",
+                        "gm": 0.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14559",
+                "name": "Beverages, water, bottled, non-carbonated, EVIAN",
+                "weight": 29.6,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "0",
+                        "gm": 0.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14058",
+                "name": "Beverages, Whey protein powder isolate",
+                "weight": 86.0,
+                "measure": "3.0 scoop",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "309",
+                        "gm": 359.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "14028",
+                "name": "Beverages, Whiskey sour mix, bottled",
+                "weight": 32.3,
+                "measure": "1.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "28",
+                        "gm": 87.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18017",
+                "name": "Biscuits, mixed grain, refrigerated dough",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "75",
+                        "gm": 263.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18010",
+                "name": "Biscuits, plain or buttermilk, dry mix",
+                "weight": 120.0,
+                "measure": "1.0 cup, purchased",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "514",
+                        "gm": 428.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18009",
+                "name": "Biscuits, plain or buttermilk, frozen, baked",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "96",
+                        "gm": 338.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18014",
+                "name": "Biscuits, plain or buttermilk, refrigerated dough, higher fat",
+                "weight": 58.0,
+                "measure": "1.0 biscuit",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "178",
+                        "gm": 307.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "09048",
+                "name": "Blackberries, frozen, unsweetened",
+                "weight": 151.0,
+                "measure": "1.0 cup, unthawed",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "97",
+                        "gm": 64.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "09043",
+                "name": "Blackberry juice, canned",
+                "weight": 250.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "95",
+                        "gm": 38.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "09055",
+                "name": "Blueberries, frozen, sweetened",
+                "weight": 230.0,
+                "measure": "1.0 cup, thawed",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "196",
+                        "gm": 85.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "09353",
+                "name": "Blueberries, wild, canned, heavy syrup, drained",
+                "weight": 319.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "341",
+                        "gm": 107.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "07952",
+                "name": "Bologna, chicken, turkey, pork",
+                "weight": 28.0,
+                "measure": "1.0 serving",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "83",
+                        "gm": 298.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "07971",
+                "name": "Bologna, meat and poultry",
+                "weight": 33.0,
+                "measure": "1.0 slice",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "93",
+                        "gm": 281.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "07936",
+                "name": "Bologna, pork and turkey, lite",
+                "weight": 56.0,
+                "measure": "1.0 serving 2 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "118",
+                        "gm": 211.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "07937",
+                "name": "Bologna, pork, turkey and beef",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "95",
+                        "gm": 336.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "09056",
+                "name": "Boysenberries, canned, heavy syrup",
+                "weight": 256.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "225",
+                        "gm": 88.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "09057",
+                "name": "Boysenberries, frozen, unsweetened",
+                "weight": 132.0,
+                "measure": "1.0 cup, unthawed",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "66",
+                        "gm": 50.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "07924",
+                "name": "Bratwurst, pork, beef and turkey, lite, smoked",
+                "weight": 66.0,
+                "measure": "1.0 serving 2.33 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "123",
+                        "gm": 186.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "07014",
+                "name": "Braunschweiger (a liver sausage), pork",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "93",
+                        "gm": 327.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18972",
+                "name": "Bread, cheese",
+                "weight": 48.0,
+                "measure": "1.0 slice",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "196",
+                        "gm": 408.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18023",
+                "name": "Bread, cornbread, dry mix, prepared with 2% milk, 80% margarine, and eggs",
+                "weight": 51.0,
+                "measure": "1.0 muffin",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "168",
+                        "gm": 330.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18024",
+                "name": "Bread, cornbread, prepared from recipe, made with low fat (2%) milk",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "75",
+                        "gm": 266.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18025",
+                "name": "Bread, cracked-wheat",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "74",
+                        "gm": 260.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18030",
+                "name": "Bread, french or vienna, toasted (includes sourdough)",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "90",
+                        "gm": 319.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18032",
+                "name": "Bread, irish soda, prepared from recipe",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "82",
+                        "gm": 290.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18037",
+                "name": "Bread, oat bran",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "67",
+                        "gm": 236.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18040",
+                "name": "Bread, oatmeal, toasted",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "83",
+                        "gm": 292.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18955",
+                "name": "Bread, pan dulce, sweet yeast bread",
+                "weight": 63.0,
+                "measure": "1.0 slice (average weight of 1 slice)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "231",
+                        "gm": 367.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18041",
+                "name": "Bread, pita, white, enriched",
+                "weight": 60.0,
+                "measure": "1.0 pita, large (6-1/2\" dia)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "165",
+                        "gm": 275.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18954",
+                "name": "Bread, pound cake type, pan de torta salvadoran",
+                "weight": 55.0,
+                "measure": "1.0 serving",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "214",
+                        "gm": 390.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18043",
+                "name": "Bread, protein (includes gluten)",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "69",
+                        "gm": 245.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18051",
+                "name": "Bread, reduced-calorie, oatmeal",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "60",
+                        "gm": 210.0
+                    }
+                ]
+            }
+        ]
+    }
+}
