@@ -1,0 +1,19 @@
+{
+  "name": "caloriecounter",
+  "version": "0.0.0",
+  "description": "Basic calorie counter app",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^30.0.0",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
+    "context": "0.0.1",
+    "lunr": "2.3.4",
+    "react-native-elements": "0.19.1",
+    "react-native-search-filter": "0.1.4",
+    "react-native-vector-icons": "6.0.2",
+    "react-navigation": "2.18.1"
+  }
+}
